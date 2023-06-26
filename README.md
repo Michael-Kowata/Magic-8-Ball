@@ -1,1 +1,1 @@
-# This project is a Magic-8-Ball
+# This project is to replicate the Magic-8-Ball toy. 
